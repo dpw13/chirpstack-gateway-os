@@ -1,3 +1,4 @@
 console-login.diff
 add_sensecap_wm7628n_device.diff
 kernel_spidev.diff
+sensecap_m2_i2c_bus.patch
